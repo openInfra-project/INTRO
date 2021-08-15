@@ -13,7 +13,8 @@
 
 개발 vlog 사이트 - [https://www.youtube.com/watch?v=uV2hKfhYfDs](https://www.youtube.com/watch?v=uV2hKfhYfDs)
 
-데모 사이트 - 
+데모 사이트 - https://118.67.131.138:30000/  
+(*보다 원활한 접속을 위해 https://118.67.131.138:30010/ 에 접속, thisisunsafe 입력 후 입장 바랍니다.*)
 
 개발 문서 사이트 - [https://spiced-flax-f90.notion.site/36e9c573c45c488bb933613313b14894](https://www.notion.so/36e9c573c45c488bb933613313b14894)
 ## 🤷‍ Service Needs
