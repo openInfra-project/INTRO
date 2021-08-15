@@ -28,9 +28,9 @@
 ![Untitled (3)](https://user-images.githubusercontent.com/48875061/129481174-b6ab2e6e-ce43-4951-b7e9-625092cfc14d.png)  
 
 
-
-##### 언택트 시험 문화 → 온라인 시험 등장 → 부정행위    
-
+  
+### 언택트 시험 문화 → 온라인 시험 등장 → 부정행위      
+  
 
 ![Untitled (4)](https://user-images.githubusercontent.com/48875061/129481194-7315384b-7803-4962-a562-4de6f63b869f.png)
 
@@ -127,7 +127,7 @@
 
 3. ManageServer
 
-    기본 url :: [https://118.67.131.138:300](https://118.67.131.138:30010/)00
+    기본 url :: [https://118.67.131.138:30000](https://118.67.131.138:30010/)
 
     `POST` /  → 사용자 아이디 중복 체크 및 비밀번호 재입력 확인 요청
 
@@ -171,11 +171,11 @@
 
 @김혜원 
 
-- NCP 서버 구축
-- kubernetes 사용한 HTTPS 배포
-- GazeCloudAPI를 통한 eye-tracking 눈추적 & 방이탈 부정행위 알림
-- luxand API를 이용한 Exam방 입장 시 본인확인
-- Exam 모드 응시자 명단 엑셀파일 처리
+- *NCP 서버 구축*
+- *kubernetes 사용한 HTTPS 배포*
+- *GazeCloudAPI를 통한 eye-tracking 눈추적 & 방이탈 부정행위 알림*
+- *luxand API를 이용한 Exam방 입장 시 본인확인*
+- *Exam 모드 응시자 명단 엑셀파일 처리*
 
 @김준영 
 
@@ -184,24 +184,23 @@
 - *부정행위 실시간 알람기능 구축*
 - *백엔드 실시간 통신 구축*
 - *Redux 활용한 SettingData(Gaze,마이크 ,비디오 on/off) 및 UserData 상태 관리*
-- 채팅 및 화상통신 기반 [socket.io](http://socket.io) 통신
+- *채팅 및 화상통신 기반 [socket.io](http://socket.io) 통신*
 - *WebSocket token을 활용한 peer connection*
 
 @황한식 
 
-- Manage-server 전체 UI/UX
-- django 풀 스택
+- *Manage-server 전체 UI/UX*
+- *django 풀 스택*
 
 @김유림 
 
-전체 Layout 구축
-
-- SQLite 로그인한 사용자 저장
-- study, exam모드 별로 방 생성 (exam모드 생성 시 파일[회원명단] 업로드 필수)
-- retrofit 사용하여 서버와 통신
-- exam 방 입장시 카메라 촬영 및 이미지 통신
-- 안드로이드 NDK + OpenCV를 활용한 사람 인지 기능
-- 특정 앱 차단 구현
+- *전체 Layout 구축*
+- *SQLite 로그인한 사용자 저장*
+- *study, exam모드 별로 방 생성 (exam모드 생성 시 파일[회원명단] 업로드 필수)*
+- *retrofit 사용하여 서버와 통신*
+- *exam 방 입장시 카메라 촬영 및 이미지 통신*
+- *안드로이드 NDK + OpenCV를 활용한 사람 인지 기능*
+- *특정 앱 차단 구현*
 
 
 ### License
