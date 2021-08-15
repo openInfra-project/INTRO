@@ -93,7 +93,8 @@
 
 ---
 
-![Untitled (8)](https://user-images.githubusercontent.com/48875061/129481244-1526cdfb-7454-404f-b187-df1a2fcedf5c.png)
+![image](https://user-images.githubusercontent.com/48875061/129487780-58fb3e39-f6f4-4955-9b3a-1d6a029b4e7b.png)
+
 
 ## 🛠️ MSA Architecture
 
@@ -207,7 +208,7 @@
 ```
 MIT License
 
-Copyright (혜몽유식) [2021-08-15] [HyeWon Kim, JunYoung Kim, YuLim Kim, HanSik Hwang]
+Copyright (해몽유식) [2021-08-15] [HyeWon Kim, JunYoung Kim, YuLim Kim, HanSik Hwang]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
