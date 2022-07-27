@@ -201,7 +201,7 @@
 
 @김유림 
 
-- *전체 Layout 구축*
+- *android 전체 Layout 구축*
 - *SQLite 로그인한 사용자 저장*
 - *study, exam모드 별로 방 생성 (exam모드 생성 시 파일[회원명단] 업로드 필수)*
 - *retrofit 사용하여 서버와 통신*
