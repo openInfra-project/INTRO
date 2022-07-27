@@ -191,8 +191,13 @@
 
 @황한식 
 
-- *Manage-server 전체 UI/UX*
-- *django 풀 스택*
+- *django UI/UX 전체 frontend 개발*
+- *django Rest API 설계 및 개발*
+- Luxand API 얼굴인식을 통한 사용자 인증 기능 개발
+- *로그인/회원가입 개발*
+- *사용자 이미지 변경이 가능한 my page 개발*
+- *Class 생성 및 입장 개발*
+- *집중도 통계자료 그래프 기능 개발*
 
 @김유림 
 
